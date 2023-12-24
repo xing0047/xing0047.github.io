@@ -40,7 +40,7 @@ My research interests lie in vision-language pre-training and foundation model a
 
 [//]: # (<strong><span class='show_paper_citations' data='ElujT6oAAAAJ:hqOjcs7Dif8C'></span></strong>)
 
-<u><b>Yun Xing</b></u>, Kang Jian, Aoran Xiao, Jiahao Nie, Shao Ling, Shijian Lu
+<u><b>Yun Xing</b></u>, Jian Kang, Aoran Xiao, Jiahao Nie, Shao Ling, Shijian Lu
 
 <i>NeurIPS, 2023</i>
 
@@ -59,7 +59,7 @@ My research interests lie in vision-language pre-training and foundation model a
 
 [//]: # (<strong><span class='show_paper_citations' data='ElujT6oAAAAJ:hqOjcs7Dif8C'></span></strong>)
 
-<u><b>Yun Xing</b></u>*, Dayan Guan*, JiaXing Huang, Shijian Lu
+<u><b>Yun Xing</b></u>\*, Dayan Guan*, JiaXing Huang, Shijian Lu
 
 <i>ECCV, 2022</i>
 
@@ -88,10 +88,3 @@ My research interests lie in vision-language pre-training and foundation model a
 **Last Update:** Dec 22, 2023
 
 [//]: # (Thanks for the template of <a href="https://github.com/RayeRen/acad-homepage.github.io">Yi Ren</a>)
-
-
-[//]: # (<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=ANdsWClKTd0C9zzbOsypcCHkp_oYbobfGEcxOpvL6os&cl=ffffff&w=300"></script>)
-
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=ANdsWClKTd0C9zzbOsypcCHkp_oYbobfGEcxOpvL6os&cl=ffffff&w=a"></script>
-
-
