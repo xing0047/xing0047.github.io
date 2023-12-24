@@ -1,0 +1,98 @@
+---
+permalink: /
+title: ""
+excerpt: ""
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
+{% if site.google_scholar_stats_use_cdn %}
+{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
+{% else %}
+{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
+{% endif %}
+{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
+
+<span class='anchor' id='about-me'></span>
+
+I am currently a first year Ph.D. student at <a href="https://sg-vilab.github.io/people/">VI-Lab</a>, Nanyang Technological University, supervised by Prof. <a href="https://scholar.google.com/citations?user=uYmK-A0AAAAJ&hl=en&oi=ao">Shijian Lu</a>. I received my B.S. degree from <a href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjOteGdxb2BAxWBoGMGHQvJAkcQFnoECBIQAQ&url=https%3A%2F%2Fwww.zju.edu.cn%2Fenglish%2F&usg=AOvVaw3Z42KzM3Yu8rBgysZ5oIcc&opi=89978449">Zhejiang University</a> in 2021, supervised by Prof Hong Zhou. 
+
+My research interests lie in vision-language pre-training and foundation model adaptation.
+
+<span class='anchor' id='news'></span>
+
+# 🔥 News
+- *2023.09*: One paper is accepted by <b>NeurIPS 2023!</b>
+- *2022.07*: One paper is accepted by <b>ECCV 2022!</b>
+
+<span class='anchor' id='publications'></span>
+
+# 📝 Publications 
+
+[//]: # (----------- NeurIPS 2023 -------------------------)
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023</div><img src='images/NIPS23_CoCu.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Rewrite Caption Semantics: Bridging Semantic Gaps for Language Supervised Semantic Segmentation](https://arxiv.org/pdf/2309.13505.pdf) 
+
+[//]: # (<strong><span class='show_paper_citations' data='ElujT6oAAAAJ:hqOjcs7Dif8C'></span></strong>)
+
+<u><b>Yun Xing</b></u>, Kang Jian, Aoran Xiao, Jiahao Nie, Shao Ling, Shijian Lu
+
+<i>NeurIPS, 2023</i>
+
+<a href="https://arxiv.org/pdf/2309.13505.pdf">paper</a> 
+
+</div>
+</div>
+
+
+[//]: # (----------- ECCV 2022 -------------------------)
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2022</div><img src='images/ECCV22_TPS.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Domain Adaptive Video Segmentation via Temporal Pseudo Supervision](https://arxiv.org/pdf/2207.02372.pdf) 
+
+[//]: # (<strong><span class='show_paper_citations' data='ElujT6oAAAAJ:hqOjcs7Dif8C'></span></strong>)
+
+<u><b>Yun Xing</b></u>, Dayan Guan, JiaXing Huang, Shijian Lu
+
+<i>ECCV, 2022</i>
+
+<a href="https://arxiv.org/pdf/2207.02372.pdf">paper</a> 
+
+</div>
+</div>
+
+
+
+<span class='anchor' id='education'></span>
+
+# 📖 Education
+- *2023.01 - Present:* Doctor of Philosophy, School of Computer Science and Engineering, Nanyang Technological University
+- *2021.08 - 2022.11:* Master in Artificial Intelligence, School of Computer Science and Engineering, Nanyang Technological University
+- *2017.09 - 2021.07:* Bachelor in Biomedical Engineering and Instrument Science, Zhejiang University
+
+
+<span class='anchor' id='service'></span>
+# 💻 Service
+## Conference Reviewer
+- Reviewer of CVPR 2024
+
+[//]: # (**Contact:** xing0047@e.ntu.edu.sg)
+
+**Last Update:** Dec 22, 2023
+
+[//]: # (Thanks for the template of <a href="https://github.com/RayeRen/acad-homepage.github.io">Yi Ren</a>)
+
+
+[//]: # (<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=UA1prgTfM8f4KdsTtZDKPAqAagf4Sr6L0d9xRVyOdrE&cl=ffffff&w=300"></script>)
+
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=tt&d=0BIYeBsibdR2LYwdkZWai6r2NccfTZ96HDqvr9WYt9s&co=9fc7e3&cmo=3acc3a&cmn=ff5353&ct=ffffff'></script>
+
+
+[//]: # (<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=0BIYeBsibdR2LYwdkZWai6r2NccfTZ96HDqvr9WYt9s&cl=ffffff&w=a"></script>)
