@@ -90,9 +90,8 @@ My research interests lie in vision-language pre-training and foundation model a
 [//]: # (Thanks for the template of <a href="https://github.com/RayeRen/acad-homepage.github.io">Yi Ren</a>)
 
 
-[//]: # (<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=UA1prgTfM8f4KdsTtZDKPAqAagf4Sr6L0d9xRVyOdrE&cl=ffffff&w=300"></script>)
+[//]: # (<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=ANdsWClKTd0C9zzbOsypcCHkp_oYbobfGEcxOpvL6os&cl=ffffff&w=300"></script>)
 
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=tt&d=0BIYeBsibdR2LYwdkZWai6r2NccfTZ96HDqvr9WYt9s&co=9fc7e3&cmo=3acc3a&cmn=ff5353&ct=ffffff'></script>
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=ANdsWClKTd0C9zzbOsypcCHkp_oYbobfGEcxOpvL6os&cl=ffffff&w=a"></script>
 
 
-[//]: # (<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=0BIYeBsibdR2LYwdkZWai6r2NccfTZ96HDqvr9WYt9s&cl=ffffff&w=a"></script>)
