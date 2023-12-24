@@ -44,7 +44,7 @@ My research interests lie in vision-language pre-training and foundation model a
 
 <i>NeurIPS, 2023</i>
 
-<a href="https://arxiv.org/pdf/2309.13505.pdf">paper</a> 
+[<a href="https://arxiv.org/pdf/2309.13505.pdf">paper</a>] [<a href="https://github.com/xing0047/rewrite">code</a>]
 
 </div>
 </div>
@@ -63,7 +63,7 @@ My research interests lie in vision-language pre-training and foundation model a
 
 <i>ECCV, 2022</i>
 
-<a href="https://arxiv.org/pdf/2207.02372.pdf">paper</a> 
+[<a href="https://arxiv.org/pdf/2207.02372.pdf">paper</a>] [<a href="https://github.com/xing0047/TPS">code</a>]
 
 </div>
 </div>
