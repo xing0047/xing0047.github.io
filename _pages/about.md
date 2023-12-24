@@ -59,7 +59,7 @@ My research interests lie in vision-language pre-training and foundation model a
 
 [//]: # (<strong><span class='show_paper_citations' data='ElujT6oAAAAJ:hqOjcs7Dif8C'></span></strong>)
 
-<u><b>Yun Xing</b></u>, Dayan Guan, JiaXing Huang, Shijian Lu
+<u><b>Yun Xing*</b></u>, Dayan Guan*, JiaXing Huang, Shijian Lu
 
 <i>ECCV, 2022</i>
 
