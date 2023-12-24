@@ -81,7 +81,7 @@ My research interests lie in vision-language pre-training and foundation model a
 <span class='anchor' id='service'></span>
 # 💻 Service
 ## Conference Reviewer
-- Reviewer of CVPR 2024
+- CVPR 2024
 
 [//]: # (**Contact:** xing0047@e.ntu.edu.sg)
 
