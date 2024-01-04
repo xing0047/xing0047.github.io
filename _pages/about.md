@@ -40,7 +40,7 @@ My research interests lie in vision-language pre-training and foundation model a
 
 [//]: # (<strong><span class='show_paper_citations' data='ElujT6oAAAAJ:hqOjcs7Dif8C'></span></strong>)
 
-<u><b>Yun Xing</b></u>, Jian Kang, Aoran Xiao, Jiahao Nie, Shao Ling, Shijian Lu
+<u><b>Yun Xing</b></u>, Jian Kang, Aoran Xiao, Jiahao Nie, Ling Shao, Shijian Lu
 
 <i>NeurIPS, 2023</i>
 
