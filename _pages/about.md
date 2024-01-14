@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a first year Ph.D. student at <a href="https://sg-vilab.github.io/people/">VI-Lab</a>, Nanyang Technological University, supervised by Prof. <a href="https://scholar.google.com/citations?user=uYmK-A0AAAAJ&hl=en&oi=ao">Shijian Lu</a>. I received my B.S. degree from <a href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjOteGdxb2BAxWBoGMGHQvJAkcQFnoECBIQAQ&url=https%3A%2F%2Fwww.zju.edu.cn%2Fenglish%2F&usg=AOvVaw3Z42KzM3Yu8rBgysZ5oIcc&opi=89978449">Zhejiang University</a> in 2021, supervised by Prof Hong Zhou. 
+I am currently a second year Ph.D. student at <a href="https://sg-vilab.github.io/people/">VI-Lab</a>, Nanyang Technological University, supervised by Prof. <a href="https://scholar.google.com/citations?user=uYmK-A0AAAAJ&hl=en&oi=ao">Shijian Lu</a>. I received my B.S. degree from <a href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjOteGdxb2BAxWBoGMGHQvJAkcQFnoECBIQAQ&url=https%3A%2F%2Fwww.zju.edu.cn%2Fenglish%2F&usg=AOvVaw3Z42KzM3Yu8rBgysZ5oIcc&opi=89978449">Zhejiang University</a> in 2021, supervised by Prof. Hong Zhou. 
 
 My research interests lie in vision-language pre-training and foundation model adaptation.
 
