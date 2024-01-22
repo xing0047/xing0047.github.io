@@ -81,10 +81,10 @@ My research interests lie in vision-language pre-training and foundation model a
 <span class='anchor' id='service'></span>
 # 💻 Service
 ## Conference Reviewer
-- CVPR 2024
+- CVPR/ICML 2024
 
 [//]: # (**Contact:** xing0047@e.ntu.edu.sg)
 
-**Last Update:** Dec 22, 2023
+**Last Update:** Jan 22, 2024
 
 [//]: # (Thanks for the template of <a href="https://github.com/RayeRen/acad-homepage.github.io">Yi Ren</a>)
