@@ -24,12 +24,31 @@ My research interests lie in vision-language pre-training and foundation model a
 <span class='anchor' id='news'></span>
 
 # 🔥 News
+- *2024.03*: One paper is accepted by <b>CVPR 2024!</b>
 - *2023.09*: One paper is accepted by <b>NeurIPS 2023!</b>
 - *2022.07*: One paper is accepted by <b>ECCV 2022!</b>
 
 <span class='anchor' id='publications'></span>
 
 # 📝 Publications 
+
+[//]: # (----------- CVPR 2024 -------------------------)
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023</div><img src='images/CVPR24_IFA.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Cross-Domain Few-Shot Segmentation via Iterative Support-Query Correspondence Mining](https://arxiv.org/pdf/2401.08407.pdf) 
+
+[//]: # (<strong><span class='show_paper_citations' data='ElujT6oAAAAJ:hqOjcs7Dif8C'></span></strong>)
+
+Jiahao Nie*, <u><b>Yun Xing</b></u>\*, Gongjie Zhang, Pei Yan, Aoran Xiao, Yap-Peng Tan, Alex C. Kot, Shijian Lu
+
+<i>CVPR, 2024</i>
+
+[<a href="https://arxiv.org/pdf/2401.08407.pdf">paper</a>] [<a href="ttps://github.com/niejiahao1998/IFA">code</a>]
+
+</div>
+</div>
 
 [//]: # (----------- NeurIPS 2023 -------------------------)
 
@@ -82,6 +101,10 @@ My research interests lie in vision-language pre-training and foundation model a
 # 💻 Service
 ## Conference Reviewer
 - CVPR/ICML 2024
+
+<span class='anchor' id='teaching'></span>
+# 💻 Teaching
+- SC1015
 
 [//]: # (**Contact:** xing0047@e.ntu.edu.sg)
 
