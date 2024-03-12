@@ -100,7 +100,7 @@ Jiahao Nie*, <u><b>Yun Xing</b></u>\*, Gongjie Zhang, Pei Yan, Aoran Xiao, Yap-P
 <span class='anchor' id='service'></span>
 # 💻 Service
 ## Conference Reviewer
-- CVPR/ICML 2024
+- CVPR/ICML/ECCV 2024
 
 <span class='anchor' id='teaching'></span>
 # 💻 Teaching
