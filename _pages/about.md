@@ -37,9 +37,23 @@ My research interests lie in vision-language pre-training and foundation model a
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023</div><img src='images/NIPS23_CoCu.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[<b>Rewrite Caption Semantics: Bridging Semantic Gaps for Language Supervised Semantic Segmentation</b>](https://arxiv.org/pdf/2309.13505.pdf) 
+[<b>Cross-Domain Few-Shot Segmentation via Iterative Support-Query Correspondence Mining</b>](https://arxiv.org/pdf/2401.08407.pdf) 
 
-[//]: # (<strong><span class='show_paper_citations' data='ElujT6oAAAAJ:hqOjcs7Dif8C'></span></strong>)
+Jiahao Nie*, <u><b>Yun Xing*</b></u>, Gongjie Zhang, Pei Yan, Aoran Xiao, Yap-Peng Tan, Alex C. Kot, Shijian Lu
+
+<i>CVPR, 2024</i>
+
+[<a href="https://arxiv.org/pdf/2401.08407.pdf">paper</a>] [<a href="https://github.com/niejiahao1998/IFA">code</a>]
+
+</div>
+</div>
+
+[//]: # (----------- NeurIPS 2023 -------------------------)
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023</div><img src='images/NIPS23_CoCu.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[<b>Rewrite Caption Semantics: Bridging Semantic Gaps for Language Supervised Semantic Segmentation</b>](https://arxiv.org/pdf/2309.13505.pdf) 
 
 <u><b>Yun Xing</b></u>, Jian Kang, Aoran Xiao, Jiahao Nie, Ling Shao, Shijian Lu
 
@@ -57,8 +71,6 @@ My research interests lie in vision-language pre-training and foundation model a
 <div class='paper-box-text' markdown="1">
 
 [<b>Domain Adaptive Video Segmentation via Temporal Pseudo Supervision</b>](https://arxiv.org/pdf/2207.02372.pdf) 
-
-[//]: # (<strong><span class='show_paper_citations' data='ElujT6oAAAAJ:hqOjcs7Dif8C'></span></strong>)
 
 <u><b>Yun Xing</b></u>\*, Dayan Guan*, Jiaxing Huang, Shijian Lu
 
@@ -82,7 +94,7 @@ My research interests lie in vision-language pre-training and foundation model a
 <span class='anchor' id='service'></span>
 # 💻 Service
 ## Conference Reviewer
-- CVPR/ICML/ECCV 2024
+- CVPR/ICML/ECCV/NeurIPS 2024
 
 <span class='anchor' id='teaching'></span>
 # 💻 Teaching
