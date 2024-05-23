@@ -32,7 +32,7 @@ My research interests lie in vision-language pre-training and foundation model a
 
 # 📝 Publications 
 
-[//]: # (----------- NeurIPS 2023 -------------------------)
+[//]: # (----------- CVPR 2024 -------------------------)
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023</div><img src='images/CVPR24_IFA.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
