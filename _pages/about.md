@@ -39,7 +39,7 @@ My research interests lie in vision-language pre-training and foundation model a
 
 [<b>Cross-Domain Few-Shot Segmentation via Iterative Support-Query Correspondence Mining</b>](https://arxiv.org/pdf/2401.08407.pdf) 
 
-Jiahao Nie*, <u><b>Yun Xing*</b></u>, Gongjie Zhang, Pei Yan, Aoran Xiao, Yap-Peng Tan, Alex C. Kot, Shijian Lu
+Jiahao Nie*, <u><b>Yun Xing</b></u>\*, Gongjie Zhang, Pei Yan, Aoran Xiao, Yap-Peng Tan, Alex C. Kot, Shijian Lu
 
 <i>CVPR, 2024</i>
 
