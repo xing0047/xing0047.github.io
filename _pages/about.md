@@ -34,7 +34,7 @@ My research interests lie in vision-language pre-training and foundation model a
 
 [//]: # (----------- NeurIPS 2023 -------------------------)
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023</div><img src='images/NIPS23_CoCu.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023</div><img src='images/CVPR24_IFA.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [<b>Cross-Domain Few-Shot Segmentation via Iterative Support-Query Correspondence Mining</b>](https://arxiv.org/pdf/2401.08407.pdf) 
