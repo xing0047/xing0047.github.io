@@ -24,9 +24,10 @@ My research interests lie in vision-language pre-training and foundation model a
 <span class='anchor' id='news'></span>
 
 # 🔥 News
-- *2024.03*: One paper is accepted by <b>CVPR 2024!</b>
-- *2023.09*: One paper is accepted by <b>NeurIPS 2023!</b>
-- *2022.07*: One paper is accepted by <b>ECCV 2022!</b>
+- *2024.07*: One paper is accepted by <b>ECCV 2024.</b>
+- *2024.03*: One paper is accepted by <b>CVPR 2024.</b>
+- *2023.09*: One paper is accepted by <b>NeurIPS 2023.</b>
+- *2022.07*: One paper is accepted by <b>ECCV 2022.</b>
 
 <span class='anchor' id='publications'></span>
 
@@ -102,6 +103,6 @@ Jiahao Nie*, <u><b>Yun Xing</b></u>\*, Gongjie Zhang, Pei Yan, Aoran Xiao, Yap-P
 
 [//]: # (**Contact:** xing0047@e.ntu.edu.sg)
 
-**Last Update:** Mar 4, 2024
+**Last Update:** Jul 1, 2024
 
 [//]: # (Thanks for the template of <a href="https://github.com/RayeRen/acad-homepage.github.io">Yi Ren</a>)
