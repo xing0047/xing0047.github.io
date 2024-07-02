@@ -120,7 +120,7 @@ Jiahao Nie*, <u><b>Yun Xing</b></u>\*, Gongjie Zhang, Pei Yan, Aoran Xiao, Yap-P
 
 <span class='anchor' id='teaching'></span>
 # 💻 Teaching
-- [SC1015](https://www.ntu.edu.sg/docs/librariesprovider124/economics-and-data-science/sc1015-introduction-to-data-science-ai.pdf?Status=Master&sfvrsn=b6e8f226_4) Introduction to Data Science and Artificial Intelligence, NTU, 2024 Spring
+- [SC1015](https://www.ntu.edu.sg/docs/librariesprovider124/economics-and-data-science/sc1015-introduction-to-data-science-ai.pdf?Status=Master&sfvrsn=b6e8f226_4): Introduction to Data Science and Artificial Intelligence, NTU, 2024 Spring
 
 [//]: # (**Contact:** xing0047@e.ntu.edu.sg)
 
