@@ -49,6 +49,10 @@ Aoran Xiao*, Weihao Xuan*, Heli Qi, <u><b>Yun Xing</b></u>, Ruijie Ren, Xiaoqin 
 </div>
 </div>
 
+
+
+[//]: # (----------- CVPR 2024 -------------------------)
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/CVPR24_IFA.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -62,6 +66,8 @@ Jiahao Nie*, <u><b>Yun Xing</b></u>\*, Gongjie Zhang, Pei Yan, Aoran Xiao, Yap-P
 
 </div>
 </div>
+
+
 
 [//]: # (----------- NeurIPS 2023 -------------------------)
 
@@ -78,6 +84,7 @@ Jiahao Nie*, <u><b>Yun Xing</b></u>\*, Gongjie Zhang, Pei Yan, Aoran Xiao, Yap-P
 
 </div>
 </div>
+
 
 
 [//]: # (----------- ECCV 2022 -------------------------)
