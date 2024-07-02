@@ -62,7 +62,7 @@ Jiahao Nie*, <u><b>Yun Xing</b></u>\*, Gongjie Zhang, Pei Yan, Aoran Xiao, Yap-P
 
 <i>CVPR, 2024</i>
 
-[<a href="https://arxiv.org/pdf/2401.08407.pdf">paper</a>] [<a href="https://github.com/weihao1115/cat-sam">code</a>]
+[<a href="https://arxiv.org/pdf/2401.08407.pdf">paper</a>] [<a href="https://github.com/niejiahao1998/IFA">code</a>]
 
 </div>
 </div>
