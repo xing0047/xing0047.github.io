@@ -33,7 +33,21 @@ My research interests lie in vision-language pre-training and foundation model a
 
 # 📝 Publications 
 
-[//]: # (----------- CVPR 2024 -------------------------)
+[//]: # (----------- ECCV 2024 -------------------------)
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/ECCV24_CAT_SAM.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[<b>CAT-SAM: Conditional Tuning Network for Few-Shot Adaptation of Segmentation Anything Model</b>](https://arxiv.org/pdf/2402.03631.pdf) 
+
+Aoran Xiao*, Weihao Xuan*, Heli Qi, <u><b>Yun Xing</b></u>, Ruijie Ren, Xiaoqin Zhang, Ling Shao, Shijian Lu
+
+<i>ECCV, 2024</i>
+
+[<a href="https://arxiv.org/pdf/2402.03631.pdf">paper</a>] [<a href="https://github.com/weihao1115/cat-sam">code</a>]
+
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/CVPR24_IFA.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -44,7 +58,7 @@ Jiahao Nie*, <u><b>Yun Xing</b></u>\*, Gongjie Zhang, Pei Yan, Aoran Xiao, Yap-P
 
 <i>CVPR, 2024</i>
 
-[<a href="https://arxiv.org/pdf/2401.08407.pdf">paper</a>] [<a href="https://github.com/niejiahao1998/IFA">code</a>]
+[<a href="https://arxiv.org/pdf/2401.08407.pdf">paper</a>] [<a href="https://github.com/weihao1115/cat-sam">code</a>]
 
 </div>
 </div>
