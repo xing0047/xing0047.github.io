@@ -35,7 +35,7 @@ My research interests lie in vision-language pre-training and foundation model a
 
 [//]: # (----------- ECCV 2024 -------------------------)
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/ECCV24_CAT_SAM.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/ECCV24_CAT_SAM.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [<b>CAT-SAM: Conditional Tuning Network for Few-Shot Adaptation of Segmentation Anything Model</b>](https://arxiv.org/pdf/2402.03631.pdf) 
