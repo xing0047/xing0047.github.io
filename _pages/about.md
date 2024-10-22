@@ -24,6 +24,7 @@ My research interests lie in vision-language pre-training and foundation model a
 <span class='anchor' id='news'></span>
 
 # 🔥 News
+- *2024.09*: One paper is accepted by <b>NeurIPS 2024.</b>
 - *2024.07*: One paper is accepted by <b>ECCV 2024.</b>
 - *2024.03*: One paper is accepted by <b>CVPR 2024.</b>
 - *2023.09*: One paper is accepted by <b>NeurIPS 2023.</b>
@@ -32,6 +33,23 @@ My research interests lie in vision-language pre-training and foundation model a
 <span class='anchor' id='publications'></span>
 
 # 📝 Publications 
+
+[//]: # (----------- NeurIPS 2024 -------------------------)
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/cca_attn.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[<b>Mitigating Object Hallucination via Concentric Causal Attention</b>](https://arxiv.org/abs/2410.15926) 
+
+Yun Xing\*, Yiheng Li\*, Ivan Laptev, Shijian Lu
+
+<i>NeurIPS, 2024</i>
+
+[<a href="https://arxiv.org/abs/2410.15926">paper</a>] [<a href="https://github.com/xing0047/cca-llava">code</a>] 
+
+</div>
+</div>
+
 
 [//]: # (----------- ECCV 2024 -------------------------)
 
