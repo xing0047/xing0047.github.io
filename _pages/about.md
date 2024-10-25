@@ -143,6 +143,6 @@ Jiahao Nie*, <u><b>Yun Xing</b></u>\*, Gongjie Zhang, Pei Yan, Aoran Xiao, Yap-P
 
 [//]: # (**Contact:** xing0047@e.ntu.edu.sg)
 
-**Last Update:** Jul 1, 2024
+**Last Update:** Oct 1, 2024
 
 [//]: # (Thanks for the template of <a href="https://github.com/RayeRen/acad-homepage.github.io">Yi Ren</a>)
