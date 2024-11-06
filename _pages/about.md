@@ -134,8 +134,8 @@ Jiahao Nie*, <u><b>Yun Xing</b></u>\*, Gongjie Zhang, Pei Yan, Aoran Xiao, Yap-P
 <span class='anchor' id='service'></span>
 # 💻 Service
 ## Conference Reviewer
-- CVPR/ICML/ECCV/NeurIPS 2024
-- ICLR/AISTATS 2025
+- CVPR/ICML/ECCV/NeurIPS 2024 (Top Reviewers@NeurIPS)
+- ICLR/AISTATS/CVPR 2025
 
 <span class='anchor' id='teaching'></span>
 # Teaching
@@ -143,6 +143,6 @@ Jiahao Nie*, <u><b>Yun Xing</b></u>\*, Gongjie Zhang, Pei Yan, Aoran Xiao, Yap-P
 
 [//]: # (**Contact:** xing0047@e.ntu.edu.sg)
 
-**Last Update:** Oct 1, 2024
+**Last Update:** Nov 6, 2024
 
 [//]: # (Thanks for the template of <a href="https://github.com/RayeRen/acad-homepage.github.io">Yi Ren</a>)
