@@ -41,7 +41,7 @@ My research interests lie in vision-language pre-training and foundation model a
 
 [<b>Mitigating Object Hallucination via Concentric Causal Attention</b>](https://arxiv.org/abs/2410.15926) 
 
-Yun Xing\*, Yiheng Li\*, Ivan Laptev, Shijian Lu
+<u><b>Yun Xing</b></u>\*, Yiheng Li\*, Ivan Laptev, Shijian Lu
 
 <i>NeurIPS, 2024</i>
 
