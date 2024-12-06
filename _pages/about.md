@@ -24,7 +24,7 @@ My research interests lie in vision-language pre-training and foundation model a
 <span class='anchor' id='news'></span>
 
 # 🔥 News
-- *2024.11*: Delighted to be one of the Top Reviewers of NeurIPS 2024.
+- *2024.11*: Delighted to be one of the Top Reviewers of <b>NeurIPS 2024.</b>
 - *2024.09*: One paper is accepted by <b>NeurIPS 2024.</b>
 - *2024.07*: One paper is accepted by <b>ECCV 2024.</b>
 - *2024.03*: One paper is accepted by <b>CVPR 2024.</b>
