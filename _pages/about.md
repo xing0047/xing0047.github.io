@@ -136,7 +136,7 @@ Jiahao Nie*, <u><b>Yun Xing</b></u>\*, Gongjie Zhang, Pei Yan, Aoran Xiao, Yap-P
 # 💻 Service
 ## Conference Reviewer
 - CVPR/ICML/ECCV/NeurIPS 2024 (Top Reviewers@NeurIPS)
-- ICLR/AISTATS/CVPR 2025
+- ICLR/AISTATS/CVPR/ICML 2025
 
 <span class='anchor' id='teaching'></span>
 # Teaching
