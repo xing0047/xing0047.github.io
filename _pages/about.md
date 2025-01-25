@@ -140,7 +140,7 @@ Jiahao Nie*, <u><b>Yun Xing</b></u>\*, Gongjie Zhang, Pei Yan, Aoran Xiao, Yap-P
 
 
 ## Journal Reviewer
-- TMLR
+- TMLR, TCSVT
 
 <span class='anchor' id='teaching'></span>
 # Teaching
